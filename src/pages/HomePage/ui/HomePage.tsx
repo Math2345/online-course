@@ -5,11 +5,9 @@ import { Footer } from "../../../widgets/Footer/ui/Footer"
 export const HomePage = () => {
     return (
         <div>
-            <Header />
             <main>
                 <h1>Добро пожаловать в Online Course</h1>
             </main>
-            <Footer/>
         </div>
     )
 }
